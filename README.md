@@ -1,2 +1,2 @@
 # Piggyvest
-piggyvest design using HTML and CSS.
+Website design using HTML and CSS.
